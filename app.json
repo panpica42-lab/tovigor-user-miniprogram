@@ -2,6 +2,7 @@
   "pages": [
     "pages/login/scan-login"
   ],
+  "lazyCodeLoading": "requiredComponents",
   "window": {
     "navigationBarTitleText": "Tovigor 用户",
     "navigationBarBackgroundColor": "#ffffff",
